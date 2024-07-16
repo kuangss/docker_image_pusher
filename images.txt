@@ -5,5 +5,8 @@ xhofe/alist:latest
 lscr.io/linuxserver/piwigo:latest
 lscr.io/linuxserver/mariadb:latest
 onlyoffice/documentserver:latest
+onlyoffice/communityserver:latest
+onlyoffice/controlpanel:latest
+mysql:8.0.29
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
