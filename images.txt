@@ -9,5 +9,7 @@ onlyoffice/controlpanel:latest
 onlyoffice/mailserver:latest
 ghcr.io/docker-mailserver/docker-mailserver:latest
 mysql:8.0.29
+crazymax/jetbrains-license-server:latest
+
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
